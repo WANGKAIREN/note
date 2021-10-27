@@ -1,0 +1,1 @@
+# Git: fatal: unable to access 'xxxx': OpenSSL SSL_read: Connection was reset, errno 10054
