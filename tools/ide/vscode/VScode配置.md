@@ -1,4 +1,4 @@
-# VScode基本配置
+# VScode配置
 
 字体
 ```json

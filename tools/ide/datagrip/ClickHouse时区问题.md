@@ -12,3 +12,5 @@ Java dao层取ClickHouse中的Data类型，用String接收结果为`2021-10-27 0
 3. clickhouse-jdbc的0.3.1版本时间返回时区有bug，在General->driver中选择clickhouse-jdbc的版本为0.2.4，或等待官方修复bug后使用新版本
 
 使用`toString()`，结果不受时区影响
+
+使用DBeaverEE客户端
