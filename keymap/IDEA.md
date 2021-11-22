@@ -1,4 +1,4 @@
-# 常用快捷键
+# IDEA快捷键
 
 `ctrl + w` Extend Selection 
 
